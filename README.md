@@ -5,9 +5,13 @@
 
 > # Special futures in jessi
 
-> @Works online 24 hours a day.
-> @The bot is activated even when the deta is turned off.
-> @Even if you turn off your device, the bot will still work.
+> ❤ Works online 24 hours a day.
+
+> ❤ The bot is activated even when the deta is turned off.
+
+> ❤ Even if you turn off your device, the bot will still work.
+
+
 > ### 💬 Can you read my messages?
 
 > This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
