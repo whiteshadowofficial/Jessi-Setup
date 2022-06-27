@@ -2,14 +2,14 @@
 
 🎭 First Watch Video and Create Heroku account.
 
-![](https://telegra.ph/file/061f4e7e6f74ac76f7151.jpg)
+>![](https://telegra.ph/file/061f4e7e6f74ac76f7151.jpg)
 
-[Click To Watch Video](https://youtu.be/-l7z5KFLzro)
+>[Click To Watch Video](https://youtu.be/-l7z5KFLzro)
 
 
 🎭 Watch Video And Deploy Your Bot To Heroku.
 
-[Click To Watch Video](https://youtu.be/_X9sl_0-LfU)
+>[Click To Watch Video](https://youtu.be/_X9sl_0-LfU)
 
 
 <br>
