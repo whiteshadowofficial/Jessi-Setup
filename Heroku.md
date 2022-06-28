@@ -1,20 +1,11 @@
 
 
-🎭 First Watch Video and Create Heroku account.
-
->![](https://telegra.ph/file/061f4e7e6f74ac76f7151.jpg)
-
->[Click To Watch Video](https://youtu.be/-l7z5KFLzro)
+> 🎭 First Watch Video and Create Heroku account.
 
 
-🎭 Watch Video And Deploy Your Bot To Heroku.
-
->[Click To Watch Video](https://youtu.be/_X9sl_0-LfU)
+> ![](https://telegra.ph/file/061f4e7e6f74ac76f7151.jpg)
 
 
-<br>
-   <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="https://github.com/whiteshadowofficial/GARFIELD-WHATSAPP-BOT-v8/blob/main/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
-<br>
 
----
+> <a href="https://youtu.be/_X9sl_0-LfU"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
