@@ -64,12 +64,12 @@
  
 
 > 🦋 After click deploy app button 
-   <br>
-   🦋 wait for 30 Seconds to finish deploy (Do not let the screen turn off without switching to other apps ⚠️)
-  <br>
-   🦋 Then go to the Manage app.
-   <br>
-   🦋 Then go to Resources and turn on worker ✏️ 
-   <br>
-   🦋 Then go More > View logs and Once loaded, open your WhatsApp and keep it online
+   
+> 🦋 wait for 30 Seconds to finish deploy (Do not let the screen turn off without switching to other apps ⚠️)
+  
+> 🦋 Then go to the Manage app.
+   
+> 🦋 Then go to Resources and turn on worker ✏️ 
+  
+> 🦋 Then go More > View logs and Once loaded, open your WhatsApp and keep it online
 
