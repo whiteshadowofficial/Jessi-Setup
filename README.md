@@ -15,7 +15,7 @@
 ----
 
 
-> 🦋 First create a Heroku account. Select Node js as your programming language
+> 🦋 Now create a Heroku account. Select Node js as your programming language
   
 
 ----
