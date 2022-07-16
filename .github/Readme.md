@@ -1,3 +1,3 @@
 Jessi hear...👇
 
-https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD
+[Jessi setup](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD)
