@@ -1,3 +1,3 @@
-Jessi hear...👇
+Setup Jessi Using Web Site...👇
 
-[Jessi setup](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD)
+[https://Ms.Jessica/Official](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD)
